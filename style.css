@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla&display=swap');
 * {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     -webkit-tap-highlight-color: transparent;
     letter-spacing: 1px;
 }
