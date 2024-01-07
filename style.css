@@ -25,6 +25,7 @@ table {
     min-width: 300px;
     border-spacing: 4px;
     border: solid 1px rgb(218, 218, 218);
+    border-radius: 6px;
     background-color: azure;
 }
 .bn {
@@ -41,4 +42,7 @@ th {
     min-width: 150px;
     text-align: left;
     vertical-align: top;
+}
+td {
+    word-wrap: break-word;
 }
