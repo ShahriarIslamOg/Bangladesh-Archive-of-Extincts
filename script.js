@@ -30,11 +30,13 @@ function displayItems(items) {
     items.forEach(entity => {
         extinctListDiv.innerHTML += `
             <table>
-                <tr><td colspan="2" class="entimage"><span class="imagecont"><a href="${entity.entityImage}"><img src="${entity.entityImage}" alt="${entity.entityName}" width="100px" height="130px"/></a></span></td></tr>
+                <tr><td colspan="2" class="entimage"><span class="imagecont"><a href="${entity.entityImage}"><img src="${entity.entityThumb}" alt="${entity.entityName}" width="100px" height="130px"/></a></span></td></tr>
+                <tr><td><a href="${entity.entityImageSource}">Source &#8599;</a></td></tr>
                 <tr><th class="enname"><strong>Name:</strong></th> <td><span>${entity.entityName}</span></td></tr>
                 <tr><th class="bnname"><strong>বাংলা:</strong></th> <td><span class="bn">${entity.entityNamebn}</span></td></tr>
                 <tr><th class="extype"><strong>Type:</strong></th> <td><span>${entity.entityExtinctType}</span></td></tr>
-                <tr><th class="sciname"><strong>Scientific:</strong></th> <td><span class="sciname">${entity.entitySciName}</span></td></tr>
+                <tr><th class="sciname"><strong>Sci:</strong></th> <td><span class="sciname">${entity.entitySciName}</span></td></tr>
+                <tr><th class="lstseen"><strong>Seen:</strong></th> <td><span class="lstseen">${entity.entityLastSeen}</span></td></tr>
             </table>
             <hr/>
         `;
