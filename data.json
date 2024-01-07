@@ -1,12 +1,180 @@
 {
-    "extincts" : [ 
-    {
-        "entityImage" : "images/Nilgai.jpg",
-        "entityImageSource" : "Wikipedia",
-        "entityName" : "Nilgai",
-        "entityNamebn" : "নীলগাই",
-        "entitySciName" : "Boselaphus tragocamelus", 
-        "entityExtinctType" : "Full"
-    }
-  ]
+  "extincts": [
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bos_javanicus_javanicus.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Banteng",
+          "entityNamebn": "",
+          "entitySciName": "Bos javanicus",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Indian_Water_Buffalo_Bubalus_arnee_by_Dr_Raju_Kasambe_IMG_0347_%2811%29_%28cropped%29.jpg/220px-Indian_Water_Buffalo_Bubalus_arnee_by_Dr_Raju_Kasambe_IMG_0347_%2811%29_%28cropped%29.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Wild Water Buffalo",
+          "entityNamebn": "বুনো মহিষ",
+          "entitySciName": "Bubalus arnee",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Taxidermied_Rhodonessa_caryophyllacea.JPG/220px-Taxidermied_Rhodonessa_caryophyllacea.JPG",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Pink-headed Duck",
+          "entityNamebn": "গোলাপি হাঁস",
+          "entitySciName": "Rhodonessa caryophyllacea",
+          "entityExtinctType": "Critically Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sloth_bear_stand.jpg/220px-Sloth_bear_stand.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Sloth Bear",
+          "entityNamebn": "কালো ভালুক",
+          "entitySciName": "Melursus ursinus",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/White-winged.wood.duck.arp.jpg/220px-White-winged.wood.duck.arp.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "White-winged Duck",
+          "entityNamebn": "বাদি হাঁস",
+          "entitySciName": "Asarcornis scutulata",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bengal_Florican_Houbaropsis_bengalensis_bengalensis_%28cropped%29.jpg/220px-Bengal_Florican_Houbaropsis_bengalensis_bengalensis_%28cropped%29.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Bengal Florican",
+          "entityNamebn": "",
+          "entitySciName": "Houbaropsis bengalensis",
+          "entityExtinctType": "Critically Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/CaprolagusHispidusJASB.jpg/220px-CaprolagusHispidusJASB.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Hispid Hare",
+          "entityNamebn": "কালো খরগোশ",
+          "entitySciName": "Caprolagus hispidus",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sri_Lankan_elephant_%28Elephas_maximus_maximus%29_female_and_young_1.jpg/220px-Sri_Lankan_elephant_%28Elephas_maximus_maximus%29_female_and_young_1.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Asian Elephant",
+          "entityNamebn": "এশীয় হাতি",
+          "entitySciName": "Elephas maximus",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/220px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Blue Whale",
+          "entityNamebn": "নীল তিমি",
+          "entitySciName": "Balaenoptera musculus",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dhole_in_its_habitat_%28cropped%29.jpg/200px-Dhole_in_its_habitat_%28cropped%29.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Dhole",
+          "entityNamebn": "রামকুত্তা",
+          "entitySciName": "Cuon alpinus",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hoolock_hoolock_001.jpg/220px-Hoolock_hoolock_001.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Western Hoolock Gibbon",
+          "entityNamebn": "পশ্চিমা উল্লুক",
+          "entitySciName": "Hoolock hoolock",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Scaly_ant_eater_by_Dushy_Ranetunge_2.jpg/220px-Scaly_ant_eater_by_Dushy_Ranetunge_2.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Indian Pangolin",
+          "entityNamebn": "দেশি বনরুই",
+          "entitySciName": "Manis crassicaudata",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ganges_River_Dolphin_cropped.jpg/220px-Ganges_River_Dolphin_cropped.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Ganges River Dolphin",
+          "entityNamebn": "গঙ্গা নদীর শুশুক",
+          "entitySciName": "Platanista gangetica",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E0%A6%B2%E0%A6%BE%E0%A6%89%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9B%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8_%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0_-_%E0%A6%9A%E0%A6%B6%E0%A6%AE%E0%A6%BE%E0%A6%AA%E0%A6%B0%E0%A6%BE_%E0%A6%B9%E0%A6%A8%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%A8_02.jpg/220px-%E0%A6%B2%E0%A6%BE%E0%A6%89%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9B%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8_%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0_-_%E0%A6%9A%E0%A6%B6%E0%A6%AE%E0%A6%BE%E0%A6%AA%E0%A6%B0%E0%A6%BE_%E0%A6%B9%E0%A6%A8%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%A8_02.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Phayre's Leaf-monkey",
+          "entityNamebn": "চশমাপরা হনুমান",
+          "entitySciName": "Trachypithecus phayrei",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bostami_turtle_5.jpg/220px-Bostami_turtle_5.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Black Softshell Turtle",
+          "entityNamebn": "বোস্তামীর কচ্ছপ",
+          "entitySciName": "Nilssonia nigricans",
+          "entityExtinctType": "Critically Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Varanus_flavescens1.jpg/220px-Varanus_flavescens1.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Yellow Monitor",
+          "entityNamebn": "",
+          "entitySciName": "Varanus flavescens",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Manouria-emys-asian-forest-tortoise.jpg/220px-Manouria-emys-asian-forest-tortoise.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Asian Forest Tortoise",
+          "entityNamebn": "বড় শিলা কচ্ছপ",
+          "entitySciName": "Manouria emys",
+          "entityExtinctType": "Critically Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Elongated_Tortoise_%28Indotestudo_elongata%29_-_Thailand_1.jpg/220px-Elongated_Tortoise_%28Indotestudo_elongata%29_-_Thailand_1.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Elongated Tortoise",
+          "entityNamebn": "হলুদ পাহাড়ি কচ্ছপ",
+          "entitySciName": "Indotestudo elongata",
+          "entityExtinctType": "Indotestudo elongata"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dudhwalive_chitra.JPG/220px-Dudhwalive_chitra.JPG",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Indian Narrow-headed Softshell Turtle",
+          "entityNamebn": "ধুশ কাছিম",
+          "entitySciName": "Chitra indica",
+          "entityExtinctType": "Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gharial_%28Gavialis_gangeticus%29_male.jpg/220px-Gharial_%28Gavialis_gangeticus%29_male.jpg",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Gharial",
+          "entityNamebn": "ঘড়িয়াল",
+          "entitySciName": "Gavialis gangeticus",
+          "entityExtinctType": "Critically Endangered"
+      },
+      {
+          "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG/240px-Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG",
+          "entityImageSource": "Wikipedia",
+          "entityName": "Sumatran Rhinoceros",
+          "entityNamebn": "সুমাত্রার গণ্ডার",
+          "entitySciName": "Dicerorhinus sumatrensis",
+          "entityExtinctType": "Critically Endangered"
+      },
+      {
+        "entityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pelochelys_cantorii.jpg/220px-Pelochelys_cantorii.jpg",
+        "entityImageSource": "Wikipedia",
+        "entityName": "Asian Giant Softshell Turtle",
+        "entityNamebn": "জাতা কাছিম",
+        "entitySciName": "Pelochelys cantorii",
+        "entityStatus": "Critically Endangered"
+      }
+   ]
 }
