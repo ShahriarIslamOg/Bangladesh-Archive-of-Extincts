@@ -3,6 +3,7 @@
 * {
     font-family: 'PT Sans', sans-serif;
     -webkit-tap-highlight-color: transparent;
+    letter-spacing: 1px;
 }
 body {
     margin: 0;
