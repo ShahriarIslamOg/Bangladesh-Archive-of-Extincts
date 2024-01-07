@@ -16,6 +16,7 @@ main {
     max-width: 300px;
 }
 #mainText {
+    margin: 0;
     font-size: 24px;
     font-weight: 600;
     text-align: center;
@@ -59,4 +60,15 @@ a, a:link, a:visited {
     font-size: 15px;
     color: black;
     text-underline-offset: 3px;
+}
+h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+.names {
+    margin-top: 5px;
+    text-align: center;
 }
