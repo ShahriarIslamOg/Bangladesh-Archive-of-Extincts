@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla&display=swap');
+* {
+    font-family: 'PT Sans', sans-serif;
+    -webkit-tap-highlight-color: transparent;
+}
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main {
+    padding: 20px;
+    max-width: 300px;
+}
+#mainText {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+}
+.bn {
+    font-family: 'Tiro Bangla', sans-serif;
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+li span {
+    font-size: 17px;
+    margin: 2px 0 8px 0;
+}
+.bnname strong, .bnname span {
+    font-family: 'Tiro Bangla', sans-serif;
+}
+.sciname span {
+    font-style: italic;
+}
+li {
+    list-style-type: none;
+}
+ul {
+    padding: 12px 0 4px 0;
+    background-color: azure;
+    border: solid 1px rgb(202, 253, 253);
+    border-radius: 12px;
+}

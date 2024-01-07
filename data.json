@@ -1,0 +1,20 @@
+{
+    "extincts" : [ 
+    {
+        "entityImage" : "images/Nilgai.jpg",
+        "entityImageSource" : "Wikipedia",
+        "entityName" : "Nilgai",
+        "entityNamebn" : "নীলগাই",
+        "entitySciName" : "Boselaphus tragocamelus", 
+        "entityExtinctType" : "Full"
+    },
+    {
+        "entityImage" : "/images/",
+        "entityImageSource" : "Example",
+        "entityName" : "Test",
+        "entityNamebn" : "Test",
+        "entitySciName" : "Test",
+        "entityExtinctType" : "Full"
+    }
+  ]
+}
