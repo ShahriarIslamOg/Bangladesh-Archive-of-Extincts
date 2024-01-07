@@ -52,10 +52,6 @@ img {
     height: auto;
     width: 150px;
 }
-table:hover {
-    outline-style: solid;
-    outline-color: rgb(206, 206, 255);
-}
 a, a:link, a:visited {
     font-size: 15px;
     color: black;
