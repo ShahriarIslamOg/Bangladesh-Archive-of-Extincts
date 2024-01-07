@@ -23,6 +23,7 @@ main {
 table {
     padding: 12px;
     min-width: 300px;
+    border-spacing: 4px;
     border: solid 1px rgb(218, 218, 218);
     background-color: azure;
 }
@@ -33,10 +34,11 @@ table {
 .bnname strong, .bnname span {
     font-family: 'Tiro Bangla', sans-serif;
 }
-.sciname span {
+span.sciname {
     font-style: italic;
 }
 th {
     min-width: 150px;
     text-align: left;
+    vertical-align: top;
 }

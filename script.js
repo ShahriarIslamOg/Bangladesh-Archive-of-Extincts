@@ -15,7 +15,7 @@ function displayJsonData(data) {
                 <tr><th class="enname"><strong>Name:</strong></th> <td><span>${entity.entityName}</span></td></tr>
                 <tr><th class="bnname"><strong>বাংলা:</strong></th> <td><span>${entity.entityNamebn}</span></td></tr>
                 <tr><th class="extype"><strong>Extinct Type:</strong></th> <td><span>${entity.entityExtinctType}</span></td></tr>
-                <tr><th class="sciname"><strong>Scientific Name:</strong></th> <td><span>${entity.entitySciName}</span></td></tr>
+                <tr><th class="sciname"><strong>Scientific Name:</strong></th> <td><span class="sciname">${entity.entitySciName}</span></td></tr>
             </table>
             <hr/>
         `;
