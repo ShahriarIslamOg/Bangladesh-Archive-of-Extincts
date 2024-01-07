@@ -10,13 +10,13 @@ function displayJsonData(data) {
 
     data.extincts.forEach(entity => {
         extinctListDiv.innerHTML += `
-            <ul>
-                <li class="entimage"><span class="imagecont"><img src="${entity.entityImage}"/ alt="${entity.entityName}" width="100px" height="auto"></span></li>
-                <li class="enname"><strong>Name:</strong> <span>${entity.entityName}</span></li>
-                <li class="bnname"><strong>বাংলা:</strong> <span>${entity.entityNamebn}</span></li>
-                <li class="extype"><strong>Extinct Type:</strong> <span>${entity.entityExtinctType}</span></li>
-                <li class="sciname"><strong>Scientific Name:</strong> <span>${entity.entitySciName}</span></li>
-            </ul>
+            <table>
+                <tr><td colspan="2" class="entimage"><span class="imagecont"><img src="${entity.entityImage}" alt="${entity.entityName}" width="100px" height="auto"/></span></td></tr>
+                <tr><th class="enname"><strong>Name:</strong></th> <td><span>${entity.entityName}</span></td></tr>
+                <tr><th class="bnname"><strong>বাংলা:</strong></th> <td><span>${entity.entityNamebn}</span></td></tr>
+                <tr><th class="extype"><strong>Extinct Type:</strong></th> <td><span>${entity.entityExtinctType}</span></td></tr>
+                <tr><th class="sciname"><strong>Scientific Name:</strong></th> <td><span>${entity.entitySciName}</span></td></tr>
+            </table>
             <hr/>
         `;
     });
