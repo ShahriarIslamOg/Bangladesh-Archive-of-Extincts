@@ -48,4 +48,6 @@ td {
 }
 img {
     object-fit: cover;
+    height: 130px;
+    width: 100px;
 }
