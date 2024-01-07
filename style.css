@@ -68,3 +68,7 @@ h2 {
     margin-top: 5px;
     text-align: center;
 }
+caption {
+    margin-bottom: 5px;
+    font-weight: 600;
+}
