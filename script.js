@@ -1,3 +1,6 @@
+let displayedItems = 10;
+const itemsPerPage = 10;
+
 function fetchJsonData() {
     fetch('data.json')
         .then(response => response.json())
@@ -6,9 +9,25 @@ function fetchJsonData() {
 }
 
 function displayJsonData(data) {
-    var extinctListDiv = document.getElementById('extinctList');
+    const extinctListDiv = document.getElementById('extinctList');
 
-    data.extincts.forEach(entity => {
+    displayItems(data.extincts.slice(0, displayedItems));
+
+    window.addEventListener('scroll', () => {
+        if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
+            if (displayedItems < data.extincts.length) {
+                const additionalItems = data.extincts.slice(displayedItems, displayedItems + itemsPerPage);
+                displayItems(additionalItems);
+                displayedItems += itemsPerPage;
+            }
+        }
+    });
+}
+
+function displayItems(items) {
+    const extinctListDiv = document.getElementById('extinctList');
+
+    items.forEach(entity => {
         extinctListDiv.innerHTML += `
             <table>
                 <tr><td colspan="2" class="entimage"><span class="imagecont"><img src="${entity.entityImage}" alt="${entity.entityName}" width="100px" height="auto"/></span></td></tr>
