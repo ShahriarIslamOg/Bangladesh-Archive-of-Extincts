@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
 * {
     font-family: 'Poppins', sans-serif;
     -webkit-tap-highlight-color: transparent;
@@ -30,11 +30,11 @@ table {
     background-color: azure;
 }
 .bn {
-    font-family: 'Tiro Bangla', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
 }
 
 .bnname strong, .bnname span {
-    font-family: 'Tiro Bangla', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
 }
 span.sciname {
     font-style: italic;
