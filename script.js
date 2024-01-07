@@ -30,7 +30,7 @@ function displayItems(items) {
     items.forEach(entity => {
         extinctListDiv.innerHTML += `
             <table>
-                <tr><td colspan="2" class="entimage"><span class="imagecont"><img src="${entity.entityImage}" alt="${entity.entityName}" width="100px" height="auto"/></span></td></tr>
+                <tr><td colspan="2" class="entimage"><span class="imagecont"><img src="${entity.entityImage}" alt="${entity.entityName}" width="150px" height="auto"/></span></td></tr>
                 <tr><th class="enname"><strong>Name:</strong></th> <td><span>${entity.entityName}</span></td></tr>
                 <tr><th class="bnname"><strong>বাংলা:</strong></th> <td><span>${entity.entityNamebn}</span></td></tr>
                 <tr><th class="extype"><strong>Extinct Type:</strong></th> <td><span>${entity.entityExtinctType}</span></td></tr>
