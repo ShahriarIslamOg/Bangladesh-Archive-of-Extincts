@@ -9,6 +9,16 @@
           "entitySciName": "Elephas maximus",
           "entityExtinctType": "Endangered",
           "entityLastSeen": "Not applicable"
-      }
+      },
+      {
+        "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Indian_male_leopard_%28cropped%29.jpg/320px-Indian_male_leopard_%28cropped%29.jpg",
+        "entityImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Indian_male_leopard_%28cropped%29.jpg",
+        "entityImageSource": "https://commons.wikimedia.org/wiki/File:Indian_male_leopard_(cropped).jpg",
+        "entityName": "Leopard",
+        "entityNamebn": "চিতাবাঘ",
+        "entitySciName": "Panthera pardus",
+        "entityExtinctType": "Endangered",
+        "entityLastSeen": "Not applicable"
+    }
    ]
 }
