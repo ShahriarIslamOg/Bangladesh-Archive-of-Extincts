@@ -8,7 +8,7 @@
           "entityNamebn": "এশিয়ান হাতি",
           "entitySciName": "Elephas maximus",
           "entityExtinctType": "Endangered",
-          "entityLastSeen": "Not applicable"
+          "entityLastSeen": "-"
       },
       {
         "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Indian_male_leopard_%28cropped%29.jpg/320px-Indian_male_leopard_%28cropped%29.jpg",
@@ -18,7 +18,7 @@
         "entityNamebn": "চিতাবাঘ",
         "entitySciName": "Panthera pardus",
         "entityExtinctType": "Endangered",
-        "entityLastSeen": "Not applicable"
+        "entityLastSeen": "-"
       },
   {
     "entityName": "Javan rhinoceros",
