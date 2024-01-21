@@ -19,6 +19,141 @@
         "entitySciName": "Panthera pardus",
         "entityExtinctType": "Endangered",
         "entityLastSeen": "Not applicable"
-      }
+      },
+  {
+    "entityName": "Javan rhinoceros",
+    "entitySciName": "Rhinoceros sondaicus",
+    "entityNamebn": "জাভাদেশীয় গণ্ডার",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "Early 21st Century",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Rhinoceros_sondaicus_in_London_Zoo.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhinoceros_sondaicus_in_London_Zoo.jpg"
+  },
+  {
+    "entityName": "pink-headed duck",
+    "entitySciName": "Rhodonessa caryophyllacea",
+    "entityNamebn": "গোলাপি হাঁস",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "1940s",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Taxidermied_Rhodonessa_caryophyllacea.JPG",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Taxidermied_Rhodonessa_caryophyllacea.JPG/279px-Taxidermied_Rhodonessa_caryophyllacea.JPG"
+  },
+  {
+    "entityName": "Sumatran rhinoceros",
+    "entitySciName": "Dicerorhinus sumatrensis",
+    "entityNamebn": "সুমাত্রার গণ্ডার",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "Late 20th Century",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG/320px-Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG"
+  },
+  {
+    "entityName": "wild water buffalo",
+    "entitySciName": "Bubalus arnee",
+    "entityNamebn": "বুনো মহিষ",
+    "entityExtinctType": "Endangered",
+    "entityLastSeen": "-",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Indian_Water_Buffalo_Bubalus_arnee_by_Dr_Raju_Kasambe_IMG_0347_(11)_(cropped).jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Indian_Water_Buffalo_Bubalus_arnee_by_Dr_Raju_Kasambe_IMG_0347_(11)_(cropped).jpg/320px-Indian_Water_Buffalo_Bubalus_arnee_by_Dr_Raju_Kasambe_IMG_0347_(11)_(cropped).jpg"
+  },
+  {
+    "entityName": "Bengal Florican",
+    "entitySciName": "Houbaropsis bengalensis",
+    "entityNamebn": "বেংগল বাস্টার্ড",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "1900s",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Bengal_Florican_Houbaropsis_bengalensis_bengalensis_(cropped).jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bengal_Florican_Houbaropsis_bengalensis_bengalensis_(cropped).jpg/393px-Bengal_Florican_Houbaropsis_bengalensis_bengalensis_(cropped).jpg"
+  },
+  {
+    "entityName": "mugger crocodile",
+    "entitySciName": "Crocodylus palustris",
+    "entityNamebn": "স্বাদুপানির কুমির",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Mugger_crocodile_(Crocodylus_palustris)_Gal_Oya.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mugger_crocodile_%28Crocodylus_palustris%29_Gal_Oya.jpg/320px-Mugger_crocodile_%28Crocodylus_palustris%29_Gal_Oya.jpg"
+  },
+  {
+    "entityName": "Striped Hyena",
+    "entitySciName": "Hyaena hyaena",
+    "entityNamebn": "ডোরাকাটা হায়না",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "1900s",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Striped_hyena_(Hyaena_hyaena)_-_cropped.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Striped_hyena_%28Hyaena_hyaena%29_-_cropped.jpg/255px-Striped_hyena_%28Hyaena_hyaena%29_-_cropped.jpg"
+  },
+  {
+    "entityName": "Sloth Bear",
+    "entitySciName": "Melursus ursinus",
+    "entityNamebn": "কালো ভালুক",
+    "entityExtinctType": "Endangered",
+    "entityLastSeen": "2000",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Sloth_bear_stand.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sloth_bear_stand.jpg/159px-Sloth_bear_stand.jpg"
+  },
+  {
+    "entityName": "Nilgai",
+    "entitySciName": "Boselaphus tragocamelus",
+    "entityNamebn": "নীলগাই",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "1900",
+    "entityImageSource": "https://en.wikipedia.org/wiki/File:Nilgai_(Boselaphus_tragocamelus)_male.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nilgai_%28Boselaphus_tragocamelus%29_male.jpg/320px-Nilgai_%28Boselaphus_tragocamelus%29_male.jpg"
+  },
+  {
+    "entityName": "Banteng",
+    "entitySciName": "Bos javanicus",
+    "entityNamebn": "Tembadau",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "1950s",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Bos_javanicus_javanicus.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bos_javanicus_javanicus.jpg/320px-Bos_javanicus_javanicus.jpg"
+  },
+  {
+    "entityName": "Blackbuck",
+    "entitySciName": "Antilope cervicapra",
+    "entityNamebn": "কৃষ্ণশার",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Blackbuck_male_female.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Blackbuck_male_female.jpg"
+  },
+  {
+    "entityName": "barasingha",
+    "entitySciName": "Rucervus duvaucelii",
+    "entityNamebn": "বারশিঙ্গা",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-",
+    "entityImageSource": "https://upload.wikimedia.org/wikipedia/commons/8/83/The_barasingha.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Blackbuck_male_female.jpg"
+  },
+  {
+    "entityName": "Indian rhinoceros",
+    "entitySciName": "Rhinoceros unicornis",
+    "entityNamebn": "ভারতীয় গণ্ডার",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg/320px-Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg"
+  },
+  {
+    "entityName": "Rufous-throated Partridge",
+    "entitySciName": "Arborophila rufogularis",
+    "entityNamebn": "পাহাড়ি তিতির",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Arborophila_rufogularis_-_Doi_Inthanon.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Arborophila_rufogularis_-_Doi_Inthanon.jpg/320px-Arborophila_rufogularis_-_Doi_Inthanon.jpg"
+  },
+  {
+    "entityName": "Indian peafowl",
+    "entitySciName": "Pavo cristatus",
+    "entityNamebn": "ভারতীয় ময়ূর",
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Peacock,_East_Park,_Hull_-_panoramio.jpg",
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Peacock%2C_East_Park%2C_Hull_-_panoramio.jpg/320px-Peacock%2C_East_Park%2C_Hull_-_panoramio.jpg"
+  }
    ]
 }
