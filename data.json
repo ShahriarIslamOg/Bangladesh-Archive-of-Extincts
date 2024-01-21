@@ -1,25 +1,25 @@
 {
   "extincts": [
-      {
-          "entityThumb": "https://www.tbsnews.net/sites/default/files/styles/very_big_3/public/images/2023/06/08/351498333_948705233075932_2774911539366055508_n_0.jpg",
-          "entityImage": "https://www.tbsnews.net/sites/default/files/styles/very_big_3/public/images/2023/06/08/351498333_948705233075932_2774911539366055508_n_0.jpg",
-          "entityImageSource": "https://www.tbsnews.net/environment/nature/bleak-and-desolate-future-elephants-northern-bangladesh-646262",
-          "entityName": "Asian Elephent",
-          "entityNamebn": "এশিয়ান হাতি",
-          "entitySciName": "Elephas maximus",
-          "entityExtinctType": "Endangered",
-          "entityLastSeen": "-"
-      },
-      {
-        "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Indian_male_leopard_%28cropped%29.jpg/320px-Indian_male_leopard_%28cropped%29.jpg",
-        "entityImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Indian_male_leopard_%28cropped%29.jpg",
-        "entityImageSource": "https://commons.wikimedia.org/wiki/File:Indian_male_leopard_(cropped).jpg",
-        "entityName": "Leopard",
-        "entityNamebn": "চিতাবাঘ",
-        "entitySciName": "Panthera pardus",
-        "entityExtinctType": "Endangered",
-        "entityLastSeen": "-"
-      },
+  {
+    "entityThumb": "https://www.tbsnews.net/sites/default/files/styles/very_big_3/public/images/2023/06/08/351498333_948705233075932_2774911539366055508_n_0.jpg",
+    "entityImage": "https://www.tbsnews.net/sites/default/files/styles/very_big_3/public/images/2023/06/08/351498333_948705233075932_2774911539366055508_n_0.jpg",
+    "entityImageSource": "https://www.tbsnews.net/environment/nature/bleak-and-desolate-future-elephants-northern-bangladesh-646262",
+    "entityName": "Asian Elephent",
+    "entityNamebn": "এশিয়ান হাতি",
+    "entitySciName": "Elephas maximus",
+    "entityExtinctType": "Endangered",
+    "entityLastSeen": "-"
+  },
+  {
+    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Indian_male_leopard_%28cropped%29.jpg/320px-Indian_male_leopard_%28cropped%29.jpg",
+    "entityImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Indian_male_leopard_%28cropped%29.jpg",
+    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Indian_male_leopard_(cropped).jpg",
+    "entityName": "Leopard",
+    "entityNamebn": "চিতাবাঘ",
+    "entitySciName": "Panthera pardus",
+    "entityExtinctType": "Endangered",
+    "entityLastSeen": "-"
+  },
   {
     "entityName": "Javan rhinoceros",
     "entitySciName": "Rhinoceros sondaicus",
@@ -162,7 +162,8 @@
     "entityName": "Green Peafowl",
     "entityNamebn": "সবুজ ময়ূর",
     "entitySciName": "Pavo muticus",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Grey_Francolin_Tal_Chappar_Churu_Rajasthan_India_14.02.2013.jpg",
@@ -171,7 +172,8 @@
     "entityName": "Grey Francolin",
     "entityNamebn": "মেটে তিতির",
     "entitySciName": "Ortygornis pondicerianus",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Swamp_Francolin_from_Kaziranga_Assam_India_%28cropped%29.jpg",
@@ -180,7 +182,8 @@
     "entityName": "Swamp Francolin",
     "entityNamebn": "জলার তিতির",
     "entitySciName": "Ortygornis gularis",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/7/7e/White-winged.wood.duck.arp.jpg",
@@ -189,7 +192,8 @@
     "entityName": "White-winged Duck",
     "entityNamebn": "বাদি হাঁস",
     "entitySciName": "Asarcornis scutulata",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sarus_crane_%28Grus_antigone%29.jpg",
@@ -198,7 +202,8 @@
     "entityName": "Sarus Crane",
     "entityNamebn": "দেশি সারস",
     "entitySciName": "Antigone antigone",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/0/09/Male_Lesser_Florican_%28crop%29.jpg",
@@ -207,7 +212,8 @@
     "entityName": "Lesser Florican",
     "entityNamebn": "পাতি ডাহর",
     "entitySciName": "Sypheotides indicus",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leptoptilos_dubius_%28Assam%2C_2007%29.jpg",
@@ -216,7 +222,8 @@
     "entityName": "Greater Adjutant",
     "entityNamebn": "হাড়গিলা",
     "entitySciName": "Leptoptilos dubius",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/6/65/White-Bellied_Heron_DSCN1518_06%2C_crop.jpg",
@@ -225,7 +232,8 @@
     "entityName": "White-bellied Heron",
     "entityNamebn": "ঢোলাপেট বক",
     "entitySciName": "Ardea insignis",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pelecanus_Philippensis.JPG",
@@ -234,7 +242,8 @@
     "entityName": "Spot-billed Pelican",
     "entityNamebn": "চিতিথুটি ঘণবের",
     "entitySciName": "Pelecanus philippensis",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/6/62/Red-headed_Vulture_Adult_Male_Bandhavgrah_National_Park_16042013.jpg",
@@ -243,7 +252,8 @@
     "entityName": "Red-headed Vulture",
     "entityNamebn": "এশীয় রাজ শকুন",
     "entitySciName": "Sarcogyps calvus",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rusty-fronted_Barwing_Fambong_Lho_Wildlife_Sanctuary_Sikkim_India_29.03.2014.jpg",
@@ -252,7 +262,8 @@
     "entityName": "Rusty-fronted Barwing",
     "entityNamebn": "মরচেমাথা দাগীদানা",
     "entitySciName": "Actinodura egertoni",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/5/51/Black-breasted_parrotbill.jpg",
@@ -261,7 +272,8 @@
     "entityName": "Black-breasted Parrotbill",
     "entityNamebn": "কালাবুক টিহাথুই",
     "entitySciName": "Paradoxornis flavirostris",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Greater_Rufous-headed_Parrotbill_Eaglenest_WLS_Arunachal_Pradesh_India_March_2019.jpg",
@@ -270,7 +282,8 @@
     "entityName": "Rufous-headed Parrotbill",
     "entityNamebn": "লালমাথা টিহাথুই",
     "entitySciName": "Paradoxornis bakeri",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bar-tailed_Treecreeper_Bara_Patthar_Nainitaal_Uttarakhand_01.12.2014.jpg",
@@ -279,7 +292,8 @@
     "entityName": "Bar-tailed Treecreeper",
     "entityNamebn": "দাগিলেজ গাছ-আছড়া",
     "entitySciName": "Certhia himalayana",
-    "entityExtinctType": "Extinct"
+    "entityExtinctType": "Extinct",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Crab-eating_macaque_%28Macaca_fascicularis%29_Phang_Nga.jpg",
@@ -288,7 +302,8 @@
     "entityName": "Crab-eating macaque",
     "entityNamebn": "কাঁকড়াভুক বানর",
     "entitySciName": "Macaca fascicularis",
-    "entityExtinctType": "Endangered"
+    "entityExtinctType": "Endangered",
+    "entityLastSeen": "-"
   },
   {
     "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/9/93/Clouded_leopard.jpg",
@@ -297,16 +312,18 @@
     "entityName": "Clouded Leopard",
     "entityNamebn": "মেঘলা চিতা",
     "entitySciName": "Neofelis nebulosa",
-    "entityExtinctType": "Endangered"
+    "entityExtinctType": "Endangered",
+    "entityLastSeen": "-"
   },
   {
-    "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Elongated_Tortoise_%28Indotestudo_elongata%29_-_Thailand_1.jpg",
-    "entityImage": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Elongated_Tortoise_%28Indotestudo_elongata%29_-_Thailand_1.jpg",
-    "entityImageSource": "https://commons.wikimedia.org/wiki/File:Elongated_Tortoise_(Indotestudo_elongata)_-_Thailand_1.jpg",
-    "entityName": "Elongated Tortoise",
-    "entityNamebn": "হলুদ পাহাড়ি কচ্ছপ",
-    "entitySciName": "Indotestudo elongata",
-    "entityExtinctType": "Endangered"
+  "entityThumb": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Elongated_Tortoise_%28Indotestudo_elongata%29_-_Thailand_1.jpg",
+  "entityImage": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Elongated_Tortoise_%28Indotestudo_elongata%29_-_Thailand_1.jpg",
+  "entityImageSource": "https://commons.wikimedia.org/wiki/File:Elongated_Tortoise_(Indotestudo_elongata)_-_Thailand_1.jpg",
+  "entityName": "Elongated Tortoise",
+  "entityNamebn": "হলুদ পাহাড়ি কচ্ছপ",
+  "entitySciName": "Indotestudo elongata",
+  "entityExtinctType": "Endangered",
+  "entityLastSeen": "-"
   }
-      ]
-}
+         ]
+ }
